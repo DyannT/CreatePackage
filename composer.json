@@ -1,5 +1,5 @@
 {
-    "name": "dyannT/hello-world-package",
+    "name": "dyannt/hello-world-package",
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
